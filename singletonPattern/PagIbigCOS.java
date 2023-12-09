@@ -1,5 +1,3 @@
-package singletonPattern.singletonPattern;
-
 import java.util.Scanner;
 
 public class PagIbigCOS { //Pag-ibig Office Centralized Queuing System
